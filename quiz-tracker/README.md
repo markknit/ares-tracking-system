@@ -19,6 +19,6 @@ This application lives entirely under `quiz-tracker/` within `markknit/ares-trac
 
 ## Current boundary
 
-Foundation documentation only. No Android software, database, server, web UI, reporting implementation, or marker cards have been built. Stop before A1 and B1 until foundation review. No REST/OpenAPI or persistence schema is approved.
+Track A A1 is authorized: see the [card generator and printing guide](cards/README.md). Stop before A2. Android, server, database, web UI, and reporting implementation remain unstarted. B1 remains gated. No REST/OpenAPI or persistence schema is approved.
 
-Future paths are reserved, not created empty: `cards/`, `scanner-android/`, `scanner-windows/`, `assessment-server/`, `admin-web/`, `reporting/`, and `tests/`. Add each only when its milestone is authorized.
+Future paths are reserved, not created empty: `scanner-android/`, `scanner-windows/`, `assessment-server/`, `admin-web/`, `reporting/`, and `tests/`. A1 tests live within `cards/`. Add other paths only when their milestone is authorized.

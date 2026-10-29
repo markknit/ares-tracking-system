@@ -1,0 +1,2 @@
+# ReportLab PDFs may look like text to Git; preserve exact PDF bytes on Windows.
+*.pdf binary

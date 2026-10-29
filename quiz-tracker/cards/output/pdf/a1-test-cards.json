@@ -1,0 +1,42 @@
+{
+  "layout_version": "ares-a1-v1",
+  "marker_family": "DICT_4X4_50",
+  "opencv_version": "4.10.0",
+  "page_mm": [
+    210,
+    297
+  ],
+  "card_mm": 180,
+  "marker_mm": 96,
+  "quiet_zone_mm": 16,
+  "border_bits": 1,
+  "canonical_front_edges": {
+    "top": "A",
+    "right": "B",
+    "bottom": "C",
+    "left": "D"
+  },
+  "pdf_sha256": "90ebf279d84f0b445b898c463c3e56478d1adb6b7dcf1c8752b7ab94de178db4",
+  "cards": [
+    {
+      "card_number": 1,
+      "marker_id": 0,
+      "grid_sha256": "b3103017f10bd8945600c5103f01342bc223736d165bae41db66805be59b4a1a"
+    },
+    {
+      "card_number": 2,
+      "marker_id": 1,
+      "grid_sha256": "964083d5c1db914447bf6e6bc9d88a927028a9259e57c2057086a33e28ac6a43"
+    },
+    {
+      "card_number": 20,
+      "marker_id": 19,
+      "grid_sha256": "5543b7c3b7585dda1b91858bc3d2e8cfeb32ed32534ec0c60a4262cc2cfc095d"
+    },
+    {
+      "card_number": 40,
+      "marker_id": 39,
+      "grid_sha256": "0b1622589b6a09522f21a72921d6a4207acae22f45dd314c248254de610f75e7"
+    }
+  ]
+}

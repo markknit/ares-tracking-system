@@ -1,0 +1,7 @@
+# Python 3.12; desktop generation/test dependencies only.
+numpy==1.26.4
+opencv-python-headless==4.10.0.84
+reportlab==4.2.5
+pillow==11.0.0
+chardet==7.7.0
+pypdf==5.1.0
