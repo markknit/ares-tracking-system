@@ -14,6 +14,10 @@ Track B owns `assessment-server/`, `admin-web/`, `reporting/`, and this document
 | B6 | Architecture recommendation with tradeoffs, operating costs, deployment, recovery, and migration plan; stop for review. |
 | B7 | Authorized simulated/manual response prototype demonstrating reviewed lifecycle and integrity rules. |
 
+## B1 handoff
+
+[B1 requirements and conceptual model](b1-requirements-conceptual-model.md) is complete as documentation for review on 2026-10-28 under explicit project-lead authorization. See [current status](../../STATUS.md) for the verified worktree and scope. Stop before B2; shared contracts remain provisional and unchanged. No backend has been implemented and no platform selected.
+
 ## B5 evaluation method
 
 Identify a current shortlist from official project sources at B5; no platform is selected now. Record source URLs, review date, license/version, maintenance status, and reproducible local feasibility evidence. Compare complete custom build, integration, and hybrid approaches using the same workflows and synthetic data.
